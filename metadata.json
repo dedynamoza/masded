@@ -2,5 +2,7 @@
   "name": "NIB & Legalitas Lahan ISP KBLI 61104",
   "description": "Visual journey interaktif dan roadmap tahapan pengurusan NIB serta legalitas lahan telekomunikasi untuk KBLI 61104 (Jasa Akses Internet).",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
